@@ -264,6 +264,12 @@ article::after {
     header h1 {
         font-size: 22px;
     }
+    .banner h1{
+        font-size: 20px;
+    }
+    .banner h2{
+        font-size: 23px;
+    }
     .join h2 {
         font-size: 20px;
     }
@@ -282,6 +288,10 @@ article::after {
         display: flow-root;
         width: 100%;
         margin: 10px;
+    }
+    .main-nav{
+        position: relative;
+        top: 18px;
     }
     .main-nav ul .new {
         padding-left: 60px;
