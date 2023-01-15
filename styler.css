@@ -259,3 +259,34 @@ article::after {
         padding-left: 20px;
     }
 }
+
+@media screen and (max-width: 480px) {
+    header h1 {
+        font-size: 22px;
+    }
+    .join h2 {
+        font-size: 20px;
+    }
+    .join p {
+        font-size: 13px;
+    }
+    .join form label {
+        font-size: 18px;
+    }
+    .join form input {
+        padding: 5px 7px;
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+    .images li {
+        display: flow-root;
+        width: 100%;
+        margin: 10px;
+    }
+    .main-nav ul .new {
+        padding-left: 60px;
+    }
+    .main-nav a {
+        padding-left: 15px;
+    }
+}
