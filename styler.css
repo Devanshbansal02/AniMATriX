@@ -294,12 +294,13 @@ article::after {
     }
     .main-nav{
         position: relative;
-        top: 40px;
+        top: 80px;
     }
     .main-nav ul .new {
         padding-left: 60px;
     }
     .main-nav a {
+        font-size: 10px;
         padding-left: 15px;
     }
     
