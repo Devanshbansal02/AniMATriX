@@ -273,6 +273,9 @@ article::after {
     .join h2 {
         font-size: 20px;
     }
+    .welcome h2{
+        font-size: 20px;
+    }
     .join p {
         font-size: 13px;
     }
@@ -291,7 +294,7 @@ article::after {
     }
     .main-nav{
         position: relative;
-        top: 36px;
+        top: 40px;
     }
     .main-nav ul .new {
         padding-left: 60px;
@@ -299,7 +302,5 @@ article::after {
     .main-nav a {
         padding-left: 15px;
     }
-    .welcome h2{
-        font-size: 20px;
-    }
+    
 }
