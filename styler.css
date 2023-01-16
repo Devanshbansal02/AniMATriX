@@ -265,10 +265,10 @@ article::after {
         font-size: 22px;
     }
     .banner h1{
-        font-size: 20px;
+        font-size: 12px;
     }
     .banner h2{
-        font-size: 23px;
+        font-size: 15px;
     }
     .join h2 {
         font-size: 20px;
@@ -294,7 +294,7 @@ article::after {
     }
     .main-nav{
         position: relative;
-        top: 80px;
+        top: 30px;
     }
     .main-nav ul .new {
         padding-left: 60px;
