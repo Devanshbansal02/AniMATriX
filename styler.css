@@ -264,10 +264,10 @@ article::after {
     header h1 {
         font-size: 22px;
     }
-    .banner div h1{
+    body .banner .welcome h1{
         font-size: 20px;
     }
-    .banner div h2 span{
+    body .banner .welcome h2 span{
         font-size: 25px;
     }
     .join h2 {
