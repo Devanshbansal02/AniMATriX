@@ -287,6 +287,10 @@ article::after {
         margin-top: 9px;
         margin-bottom: 9px;
     }
+    .main-nav ul li {
+    width: 24%;
+    display: inline-block;
+    }
     .images li {
         display: flow-root;
         width: 100%;
